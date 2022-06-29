@@ -13,3 +13,8 @@ Run the following commands
 ```
 
 Visit http://localhost:3000/ to try out the KPI CRUD :) 
+
+Incase facing issues with Docker setup, try running directly from code via
+```
+npm start
+```
